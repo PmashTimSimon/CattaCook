@@ -13,11 +13,11 @@ $(document).ready(function() {
 
 <!--Vegas background start -->
 	$.vegas({
-	  src:'image/background.jpg'
+	  src:'Countdown/image/temp.jpg'
 	});
 	
 	$.vegas('overlay', {
-	  src:'plugins/vegas/overlays/05.png'
+	  src:'Countdown/plugins/vegas/overlays/05.png'
 	});	
 <!--Vegas background end -->
 
